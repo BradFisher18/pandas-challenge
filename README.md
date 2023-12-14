@@ -30,3 +30,4 @@ The code calculates average maths and reading score, percentage of students pass
 * Scores by school type
 ## Installation and running the code
 For this code to run successfully, python is required to be installed along with the pandas tool library and either Jupyter lab or Jupyter notebook. One method to install these programs is to download Anaconda - link below. To run this code, open the file within Jupyter, ensure that the input files are directed correctly and run!
+Anaconda install: https://docs.anaconda.com/free/anaconda/install/
